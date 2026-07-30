@@ -1,6 +1,6 @@
 name: Odyssey Monitor
 
-on:
+"on":
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
